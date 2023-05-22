@@ -46,10 +46,10 @@ import Progress from "../components/Progress.vue";
           </div>
           <div class="flex">
             <div class="figure">
-              <img src="../assets/Image (7).png" alt="">
+              <img src="../assets/Image(7).png" alt="">
             </div>
             <div class="pack">
-              <img src="../assets/Image (9).png" alt="">
+              <img src="../assets/Image(9).png" alt="">
             </div>
           </div>
           </div>

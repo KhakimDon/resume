@@ -44,7 +44,7 @@ import Links from "../components/Links.vue";
             <div class="mx-[30px] h-[100%] w-[400px] bg-[aqua]">
               <img
                 class="h-[100%] w-[100%] object-cover"
-                src="../assets/apple pro.png"
+                src="../assets/applepro.png"
                 alt=""
               />
             </div>
@@ -70,7 +70,7 @@ import Links from "../components/Links.vue";
             <div class="mx-[30px] h-[100%] w-[400px] bg-[aqua]">
               <img
                 class="h-[100%] w-[100%] object-cover"
-                src="../assets/google pro.png"
+                src="../assets/googlepro.png"
                 alt=""
               />
             </div>
